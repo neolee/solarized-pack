@@ -1,4 +1,4 @@
-# solarized-pack
+# solarized-theme-pack
 
 An [Emacs Live](http://overtone.github.io/emacs-live/) pack containing the Solarized color themes.
 

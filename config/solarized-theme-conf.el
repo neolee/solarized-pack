@@ -1,6 +1,6 @@
 ;; Solarized theme configuration file
 
-(live-add-pack-lib "solarized")
+(live-add-pack-lib "solarized-emacs")
 (require 'solarized)
 
 ; (load-theme 'solarized-light t)
